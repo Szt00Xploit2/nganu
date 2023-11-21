@@ -29,7 +29,7 @@ TCP and UDP flood can usually be used to attack SAMP, FiveM, Minecraft and other
 [<img src="screenshot/Screenshot_20231121-232415_Telegram.jpg" width=160>]
 [<img src="screenshot/Screenshot_20231121-232539_Telegram.jpg" width=160>]
 
-## Requirements 
+##  Module Installation
 
 ```bash
 apt install nodejs git npm yarn
@@ -39,7 +39,7 @@ apt install nodejs git npm yarn
 npm install node-telegram-bot-api net dgram yarn
 ```
 
-## 🚀 Run this bot
+## Ready for go
 
 - Prepare youre API Token telegram.
 
