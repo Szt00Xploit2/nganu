@@ -17,3 +17,7 @@ TCP and UDP flood can usually be used to attack SAMP, FiveM, Minecraft and other
 | Set Delay & Limit | Add limition on start traffic |
 | /stoptcp | Stop Connection TCP |
 | /stopudp | Stop Connection UDP |
+
+
+## Screenshot on Bot
+
