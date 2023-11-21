@@ -25,7 +25,10 @@ TCP and UDP flood can usually be used to attack SAMP, FiveM, Minecraft and other
 
 ## Screenshot on Bot
 
+- Display
 [<img src="screenshot/Screenshot_20231121-224656_Telegram.jpg" width=160>]
+
+- Traffic Send
 [<img src="screenshot/Screenshot_20231121-232415_Telegram.jpg" width=160>]
 [<img src="screenshot/Screenshot_20231121-232539_Telegram.jpg" width=160>]
 
