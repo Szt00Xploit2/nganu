@@ -12,14 +12,16 @@ TCP and UDP flood can usually be used to attack SAMP, FiveM, Minecraft and other
 | Registered UDP | View Address UDP |
 | Start TCP | Run Traffic TCP |
 | Start UDP | Run Traffic UDP |
-| Add TCP Connection | Add IP Address & Port TCP |
-| Add UDP Connection | Add IP Address & Port UDP |
-| Set Delay & Limit | Add limition on start traffic |
+| Add TCP Connection | `/addtcp <host> <port>` |
+| Add UDP Connection | `/addudp <host> <port>` |
+| Set Delay & Limit | `/setconfig <limit-traffic> <delay>` |
 | /stoptcp | Stop Connection TCP |
 | /stopudp | Stop Connection UDP |
 
 ## ⚠️ Warning
-- must use `http://` like `/send_visitor http://targat.com 10 5`
+- For `Set Delay & Limit` I recommend using a minimum of '300' in milliseconds, because if it is 'below' then Telegram will detect many request errors in the console. 
+
+- and the `traffic limit` is free to enter whatever you like
 
 ## Screenshot on Bot
 
