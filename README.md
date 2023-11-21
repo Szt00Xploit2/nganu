@@ -55,11 +55,8 @@ mv node_modules/floodtcpudp ./
 cd floodtcpudp
 ```
 
-```bash
-set your api token in config.js
-```
+- Set your api token in `config.js`
 
-- and for run this bot
 ```bash
 yarn start
 ```
