@@ -64,5 +64,3 @@ yarn start
 ## 📝 License
 
 This project is licensed under the [MIT License](https://github.com/naix0x/flood-tcp-udp/blob/main/LICENSE).
-
-<img src="https://github.com/naix0x/flood-tcp-udp/blob/main/demo%20image/images%20(9).png" width=50>
