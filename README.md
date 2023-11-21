@@ -41,7 +41,7 @@ npm install node-telegram-bot-api net dgram yarn
 
 - ### Ready for go
 
-- Prepare youre API Token telegram.
+Prepare youre API Token telegram.
 
 ```bash
 npm install floodtcpudp
