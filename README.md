@@ -39,7 +39,7 @@ apt install nodejs git npm yarn
 npm install node-telegram-bot-api net dgram yarn
 ```
 
-## Ready for go
+### Ready for go
 
 - Prepare youre API Token telegram.
 
