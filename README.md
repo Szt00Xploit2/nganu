@@ -18,6 +18,12 @@ TCP and UDP flood can usually be used to attack SAMP, FiveM, Minecraft and other
 | /stoptcp | Stop Connection TCP |
 | /stopudp | Stop Connection UDP |
 
+## ⚠️ Warning
+- must use `http://` like `/send_visitor http://targat.com 10 5`
 
 ## Screenshot on Bot
+
+[<img src="screenshot/Screenshot_20231121-224656_Telegram.jpg" width=160>]
+[<img src="screenshot/Screenshot_20231121-232415_Telegram.jpg" width=160>]
+[<img src="screenshot/Screenshot_20231121-232539_Telegram.jpg" width=160>]
 
