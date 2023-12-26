@@ -1,3 +1,3 @@
 module.exports = {
-  telegramToken: 'YOUR_TOKEN_TELEGRAM',
+  telegramToken: '6965925535:AAHxcowgwHGJQwW3kH2aqA_Io521LmqLTt8',
 };
